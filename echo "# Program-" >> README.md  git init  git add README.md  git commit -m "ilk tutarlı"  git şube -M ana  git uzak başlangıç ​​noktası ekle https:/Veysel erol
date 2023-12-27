@@ -1,0 +1,7 @@
+echo "# Program-" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk tutarlı" 
+git şube -M ana 
+git uzak başlangıç ​​noktası ekle https://github.com/56veysel/Program- .git
+ git push -u orijini ana
